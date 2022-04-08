@@ -1,9 +1,12 @@
 ## Olá! :sunglasses:
 <br>
 
-Esse é o repositório da aula de Flexbox com o exercício de recriação da interface do Instagram com responsividade para mobile, utilizando **HTML** e **CSS**, feito no bootcamp [HTML Web Developer](https://www.dio.me/bootcamp/html-web-developer?ref=aegea) da **_Digital Innovation One_**.  
+Esse é o repositório da aula de **Flexbox** com o exercício de recriação da interface do *Instagram* com responsividade para mobile, utilizando **HTML** e **CSS**, feito no bootcamp [HTML Web Developer](https://www.dio.me/bootcamp/html-web-developer?ref=aegea) da **_Digital Innovation One_**.  
 
 <br>
 
-![git insta](https://user-images.githubusercontent.com/90094685/162485242-9943bfd1-1497-4b64-a183-4a855c15ca50.png)
+<p aign="center">
+  <img src="Instagram.telaGif.gif">
+</p>
+
 #
